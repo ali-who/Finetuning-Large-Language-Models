@@ -6,7 +6,6 @@ fine-tuning is, comparing it to prompt engineering. Then go through the lab wher
 compare a fine-tuned model to a non-fine-tuned model. 
 
 
-Lab 2: In this lesson, you'll learn about where fine-tuning  
-fits into the training process. 
+Lab 2: In this lesson, you'll learn about where fine-tuning fits into the training process. 
 It comes after a step called pre-training, which is explained in the lab. Then you'll get to learn about all the 
 different tasks you get to apply fine-tuning to.
